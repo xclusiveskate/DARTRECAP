@@ -1,6 +1,29 @@
 import 'dart:io';
 
 void main() {
+  //  var sum = 10;
+  // for (var i = 0; i < 10; i++) {
+  //   sum += i;
+  // }
+  //   print(sum);
+
+  //  var planets = [
+  //   "Mercury",
+  //   "Venus",
+  //   "Earth",
+  //   "Mars",
+  //   "Jupiter",
+  //   "Saturn",
+  //   "Uranus",
+  //   "Pluto"
+  // ];
+  // for (var i = 0; i < planets.length; i++) {
+  //   print(planets[i]);
+  // }
+  // for (var i = planets.length -1 ; i >= 0; i--) {
+  //   print(planets[i]);
+  // }
+
   // var list = [2, 3, 4, 5, 3, 45, 67, 88, 555, 545, 67]; //print even and odd
   // var a = list;
   // for (var i = 0; i < list.length; i++) {
