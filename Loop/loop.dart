@@ -1,5 +1,5 @@
-import 'dart:io';
-import 'dart:math';
+// import 'dart:io';
+// import 'dart:math';
 
 void main() {
   //  var sum = 10;
@@ -127,7 +127,7 @@ void main() {
   //   print(element);
   // }
 
-//DOWHILE DOWHILE DOWHILE
+//doWhile doWhile doWhile
   // var count = 5;
   // do {
   //   print(count);
@@ -175,7 +175,7 @@ void main() {
   //   }
   //     i++;
   // }
-  //DOWHILE DOWHILE
+  //doWhile doWhile
   // var i = 0;
   // do {
   //   if (lis3[i] % 2 == 0) {
@@ -183,7 +183,7 @@ void main() {
   //   }
   //     i++;
   // } while (i < lis3.length);
-  //FORIN FORIN
+  //for in for in
   // for (var element in lis3) {
   //   if (element % 2 == 0) {
   //     print(element);
@@ -191,8 +191,11 @@ void main() {
   // }
 
   ///ASSIGNMENT:
-  ///1.  // var list = [2, 3, 4, 5, 3, 45, 67, 88, 555, 545, 67]; //print even and odd
+  // /1.   var list = [2, 3, 4, 5, 3, 45, 67, 88, 555, 545, 67]; //print even and odd
   ///2. var list = [ [[1, 2],[3, 4]],[[5, 6],[7, 8]],[[9, 10],[11, 12]]];print the thing in the list
   ///3. var lis = [ [[2, 4, 6],[3]], [[3, 5],[3,5]] ];
   ///4.var lis1 = [[[2, 4, 6],[3]], 3];
+  ///
+  ///
+ 
 }
