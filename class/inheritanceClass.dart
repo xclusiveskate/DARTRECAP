@@ -81,9 +81,7 @@ class Person {
     required this.PhoneNumber,
     required this.Address,
   });
-}
-
-class User extends Person {
+}class User extends Person {
   final String emailAddress;
   final String password;
   final String firstName;
@@ -102,7 +100,6 @@ class User extends Person {
             firstName: "wale",
             lastName: "gbenro",
             PhoneNumber: 07063861204);
-
   callPerson() {
     print(super.Address);
     print(this.Address);
